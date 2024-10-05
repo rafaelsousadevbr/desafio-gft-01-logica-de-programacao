@@ -14,7 +14,7 @@ if (heroXP < 1000) {
 
 } else if (heroXP >= 2001 && heroXP <= 5000) {
   // Se XP for entre 2.001 e 5.000 = Prata
-  console.log(printMessage(heroName, "Patra"));
+  console.log(printMessage(heroName, "Prata"));
 
 } else if (heroXP >= 5001 && heroXP <= 7000) {
   // Se XP for entre 5.001 e 7.000 = Ouro
